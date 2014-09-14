@@ -1,0 +1,10 @@
+name : AnyBC
+version : 0.1
+authors: [Leon167, LekoHD]
+description: Official AnyBC plugin
+website: http://www.Cloud-Mine.de
+main: com.lekohd.anybc.AnyBC
+
+commands:
+  anybc:
+    aliases: [any,anyb,anyc]

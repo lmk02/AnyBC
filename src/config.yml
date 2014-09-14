@@ -1,0 +1,16 @@
+enabledPrefix:
+- Beispiel1
+- Beispiel2
+- Beispiel3
+enabledMessages:
+- Beispiel1
+- Beispiel2
+- Beispiel3
+prefix:
+  Beispiel1: '[Event]'
+  Beispiel2: '&0[&5Server&0]'
+  Beispiel3: 'Sonstwas..'
+messages:
+  Beispiel1: 'Irgendein Text...'
+  Beispiel2: 'Server startet neu oder so'
+  Beispiel3: '...'
